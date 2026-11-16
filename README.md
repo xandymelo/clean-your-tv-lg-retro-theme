@@ -17,8 +17,9 @@ A neon pixel-inspired theme for [Clean Your TV](https://github.com/Razdva122/cle
 | | |
 |---|---|
 | Theme ID | `github:xandymelo/clean-your-tv-lg-retro-theme:retro` |
-| Version | 1.0.0 |
+| Version | 1.1.0 |
 | Theme API | 1 |
+| Requires | Home 1.13.3+ with `weather-v1` |
 | Layout | `dock-grid`, 6 columns, focus scale 1.1 |
 | Defaults | accent `#ffd23f`, dim 0.2, no wallpaper |
 | License | MIT |
@@ -28,11 +29,11 @@ A neon pixel-inspired theme for [Clean Your TV](https://github.com/Razdva122/cle
 ```
 cytv-themes.json                  # theme index for this repository
 themes/retro/                     # sources: theme.json, theme.css, preview, license, credits
-distributions/retro/1.0.0/        # built distribution (cytv-theme.json + hashed assets)
+distributions/retro/1.1.0/        # built distribution (cytv-theme.json + hashed assets)
 screenshots/retro/                # rendered previews + provenance
 ```
 
-The `cytv-themes.json` index points to `distributions/retro/1.0.0/cytv-theme.json` (sha256 `e03a9455…62f2c6`).
+The `cytv-themes.json` index points to `distributions/retro/1.1.0/cytv-theme.json` (sha256 `f834b9dc…72d8b4`).
 
 ## Credits
 
