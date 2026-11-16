@@ -9,3 +9,11 @@
 .ctv-label { color: var(--retro-yellow); }
 .ctv-label.is-focused { color: #000000; }
 .ctv-focus { border-color: var(--retro-yellow); border-radius: 0; box-shadow: 8px 8px 0 var(--retro-pink); }
+
+/* Home-owned weather follows the square neon cards and offset shadows. */
+.ctv-weather { color: #ffd23f; background-color: #111026; border-color: #ffd23f; border-width: 2px; border-style: solid; border-radius: 0px; box-shadow: 6px 6px 0px rgba(255,79,163,1); }
+.ctv-weather-secondary { color: #b4b0d9; }
+.ctv-weather-temp { text-shadow: 5px 5px 0px rgba(255,79,163,1); }
+.ctv-weather-icon { color: #ffd23f; }
+.ctv-weather-bar { background-color: #ffd23f; border-radius: 0px; box-shadow: 3px 3px 0px rgba(255,79,163,1); }
+.ctv-weather-track { border-radius: 0px; }
